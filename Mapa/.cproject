@@ -60,26 +60,6 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<folderInfo id="cdt.managedbuild.config.gnu.exe.debug.2109090809.1685295557" name="/" resourcePath="src/threads">
-						<toolChain id="cdt.managedbuild.toolchain.gnu.exe.debug.165545163" name="Linux GCC" superClass="cdt.managedbuild.toolchain.gnu.exe.debug" unusedChildren="">
-							<tool id="cdt.managedbuild.tool.gnu.archiver.base.417900174" name="GCC Archiver" superClass="cdt.managedbuild.tool.gnu.archiver.base.274388378"/>
-							<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1101843975" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.181711024"/>
-							<tool id="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.562322313" name="GCC C Compiler" superClass="cdt.managedbuild.tool.gnu.c.compiler.exe.debug.265975085">
-								<option id="gnu.c.compiler.option.include.paths.745034260" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="commons"/>
-									<listOptionValue builtIn="false" value="nivel-gui"/>
-									<listOptionValue builtIn="false" value="curses"/>
-									<listOptionValue builtIn="false" value="ncurses"/>
-								</option>
-								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.2004369045" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
-							</tool>
-							<tool id="cdt.managedbuild.tool.gnu.c.linker.exe.debug.1191390193" name="GCC C Linker" superClass="cdt.managedbuild.tool.gnu.c.linker.exe.debug.1433377906"/>
-							<tool id="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.106192" name="GCC C++ Linker" superClass="cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.430995124"/>
-							<tool id="cdt.managedbuild.tool.gnu.assembler.exe.debug.409577908" name="GCC Assembler" superClass="cdt.managedbuild.tool.gnu.assembler.exe.debug.2116652167">
-								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.194210595" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
-							</tool>
-						</toolChain>
-					</folderInfo>
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>

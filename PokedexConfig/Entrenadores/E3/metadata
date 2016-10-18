@@ -1,6 +1,6 @@
 nombre=E3
 simbolo=!
 hojaDeViaje=[CiudadAzul]
-obj[CiudadAzul]=[C,B]
+obj[CiudadAzul]=[B,P]
 vidas=5
 reintentos=0
